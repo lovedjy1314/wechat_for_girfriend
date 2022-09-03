@@ -379,8 +379,8 @@ for i in range(0,len(user_id1)):
 今日天气：{{weather1.DATA}} 
 当前温度：{{temperature1.DATA}} 
 {{sid.DATA}} 
-距离领导的生日还有{{birthday_lover.DATA}}天 
-距离秘书的生日还有{{birthday_my.DATA}}天 
+距离宝贝的生日还有{{birthday_lover.DATA}}天 
+距离WY的生日还有{{birthday_my.DATA}}天 
 距离元旦还有{{yd.DATA}}天 
 距离春节还有{{cj.DATA}}天 
 ===家乡:{{city2.DATA}} 天气:{{weather2.DATA}}=== 
